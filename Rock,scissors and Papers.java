@@ -1,5 +1,8 @@
+// Importing the Utility module 
 import java.util.*;
+// Programme Class
 class prog{
+//    Declaring the variables that are going to be used in the Programme 
 static int user=0;
 static int computer=0;
 public static void main(String args[])
